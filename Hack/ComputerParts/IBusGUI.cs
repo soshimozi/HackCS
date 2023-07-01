@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace HackCS;
+namespace HackCS.Hack.ComputerParts;
 
 public interface IBusGUI : IComputerPartGUI
 {

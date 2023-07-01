@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Hack\" />
+    <None Remove="Hack\ComputerParts\" />
+    <None Remove="Hack\Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Hack\" />
+    <Folder Include="Hack\ComputerParts\" />
+    <Folder Include="Hack\Events\" />
+  </ItemGroup>
 </Project>

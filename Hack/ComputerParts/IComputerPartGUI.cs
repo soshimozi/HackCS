@@ -1,4 +1,4 @@
-﻿namespace HackCS;
+﻿namespace HackCS.Hack.ComputerParts;
 
 public interface IComputerPartGUI
 {

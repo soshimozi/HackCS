@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackCS;
+namespace HackCS.Hack.ComputerParts;
 
 public interface IValueComputerPartGUI : IComputerPartGUI
 {
